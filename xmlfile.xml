@@ -1,31 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?>
-<movies>
-    <movie>
-        <title>The Example Heist</title>
-        <profit>150000000</profit>
-        <genre>Action</genre>
-        <releaseDate>2022-10-07</releaseDate>
-        <platform>Netflix</platform>
-    </movie>
-    <movie>
-        <title>Quiet Mountain</title>
-        <profit>23000000</profit>
-        <genre>Drama</genre>
-        <releaseDate>2021-03-15</releaseDate>
-        <platform>HBO Max</platform>
-    </movie>
-    <movie>
-        <title>Starlight Dreams</title>
-        <profit>87000000</profit>
-        <genre>Romance</genre>
-        <releaseDate>2023-02-14</releaseDate>
-        <platform>Amazon Prime</platform>
-    </movie>
-    <movie>
-        <title>Future City</title>
-        <profit>320000000</profit>
-        <genre>Sci-Fi</genre>
-        <releaseDate>2024-07-04</releaseDate>
-        <platform>Disney+</platform>
-    </movie>
-</movies>
+<bookings>
+    <booking>
+        <customerCode>1234567890</customerCode>
+        <startDate>02-03-2007</startDate>
+        <payingMethod>cash</payingMethod>
+        <payedSum>500</payedSum>
+    </booking>
+
+    <booking>
+        <customerCode>3234567890</customerCode>
+        <startDate>25-12-2019</startDate>
+        <payingMethod>card</payingMethod>
+        <payedSum>350</payedSum>
+    </booking>
+
+    <booking>
+        <customerCode>2234567890</customerCode>
+        <startDate>04-10-2019</startDate>
+        <payingMethod>cash</payingMethod>
+        <payedSum>300</payedSum>
+    </booking>
+
+    <booking>
+        <customerCode>4234567890</customerCode>
+        <startDate>18-03-2021</startDate>
+        <payingMethod>card</payingMethod>
+        <payedSum>480</payedSum>
+    </booking>
+</bookings>
