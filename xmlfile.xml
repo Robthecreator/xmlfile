@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <bookings>
     <booking>
         <customerCode>1234567890</customerCode>
@@ -27,3 +28,4 @@
         <payedSum>480</payedSum>
     </booking>
 </bookings>
+
